@@ -3,7 +3,7 @@
 </script>
 
 <header
-	class="sticky top-0 z-999 mb-8 inline-flex w-full items-center justify-between border-b bg-background px-8 py-4"
+	class="sticky top-0 z-999 inline-flex w-full items-center justify-between border-b bg-background px-10 py-4 lg:px-20"
 >
 	<nav>
 		<ul class="inline-flex gap-4 font-bold">
